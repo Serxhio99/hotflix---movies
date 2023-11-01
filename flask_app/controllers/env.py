@@ -1,2 +1,2 @@
-ADMINEMAIL = "hotfilxa@gmail.com"
-PASSWORD = "kmivkusdzbhrhgas"
+ADMINEMAIL = "email"
+PASSWORD = "app password"
